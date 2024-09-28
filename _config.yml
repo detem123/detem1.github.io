@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "determin'individual Blog "
-description:	       "a poor student"
+title:		           " Blog about detem"
+description:	       "a  student"
 author:              "L tian ming"
 
 
